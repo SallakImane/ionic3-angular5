@@ -1,0 +1,13 @@
+{
+  "appId": "com.example-project.ionic3-angular5",
+  "appName": "ionic3-angular5",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
